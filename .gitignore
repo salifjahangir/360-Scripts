@@ -1,0 +1,6 @@
+# Generated/test data — not source code
+*.json
+test.txt
+test_folder/
+__pycache__/
+baseline.json
