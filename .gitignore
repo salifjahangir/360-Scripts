@@ -4,3 +4,4 @@ test.txt
 test_folder/
 __pycache__/
 baseline.json
+auth.log
